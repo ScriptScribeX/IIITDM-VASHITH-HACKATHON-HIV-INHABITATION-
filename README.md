@@ -19,7 +19,7 @@ The project setup can be done by following procedures:
 
 Create a new Environment
 ```
-conda create -p ru python -y
+conda create -p venv python -y
 ```
 Install all the required packages in the Environment
 
